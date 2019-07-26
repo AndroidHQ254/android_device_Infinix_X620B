@@ -1,4 +1,4 @@
-# android_device_Infinix_X620
+# TWRP Device Tree For Infinix X620/B
 For building TWRP for Infinix ZERO 6 / Pro ONLY
 
 To compile
