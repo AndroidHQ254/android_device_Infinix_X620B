@@ -1,0 +1,2 @@
+add_lunch_combo omni_X620-eng
+add_lunch_combo omni_X620-userdebug
