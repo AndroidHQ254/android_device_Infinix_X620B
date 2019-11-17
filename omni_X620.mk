@@ -26,7 +26,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_DEVICE := X620
 PRODUCT_NAME := omni_X620
 PRODUCT_BRAND := Infinix
-PRODUCT_MODEL := Infinix ZERO 6
+PRODUCT_MODEL := Infinix ZERO 6 Pro
 PRODUCT_MANUFACTURER := Infinix
 
 # enable stock zip packages flash
